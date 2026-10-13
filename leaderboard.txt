@@ -1,0 +1,9 @@
+Username,Score,Stars,Badge,Time
+huiy,39,5,🥇 Gold,2026-06-04 20:07
+Yun,38,5,🥈 Silver,2026-06-01 23:32
+Test,34,4,🥉 Bronze,2026-06-01 08:30
+ff3,31,3,🌱 Beginner,2026-06-04 20:17
+JY,18,1,🌱 Beginner,2026-06-01 08:30
+hy,14,1,🌱 Beginner,2026-06-01 08:30
+ppjij,12,1,🌱 Beginner,2026-06-01 21:27
+
